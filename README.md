@@ -1,4 +1,11 @@
-Create My-Shop App using React
+###Create My-Shop App using React
+
+>>npx create-react-app my-app
+>>cd my-app
+>>npm start
+Then open http://localhost:3000/
+When you're ready to deploy to production, create a minified bundle with 
+>>npm run build
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
